@@ -1,4 +1,5 @@
 import scipy.stats as stats
+import numpy as np
 
+print(np.zeros((10,2)))
 
-print(stats.poisson.pmf(200,2))
